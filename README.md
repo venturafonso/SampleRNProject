@@ -1,3 +1,5 @@
 # SampleRNProject
 
-## Run pod install
+## Install instructions
+-Run `npm install`
+-Run `pod install` in the `ios` folder.
